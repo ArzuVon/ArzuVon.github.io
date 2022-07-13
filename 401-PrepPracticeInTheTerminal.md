@@ -32,9 +32,9 @@
 
 >The manual pages are a set of pages that explain every command available on your system including what they do, the specifics of how you run them and what command line arguments they accept. Some of them are a little hard to get your head around but they are fairly consistent in their structure so once you get the hang of it it's not too bad
 
-- man <command>Look up the manual page for a particular command.
-- man -k <search term> Do a keyword search for all manual pages containing the given search term.
-- /<term> Within a manual page, perform a search for 'term'
+- man < command > Look up the manual page for a particular command.
+- man -k < search term > Do a keyword search for all manual pages containing the given search term.
+- /< term > Within a manual page, perform a search for 'term'
 - **n** After performing a search within a manual page, select the next found item
 - The man pages are your friend. Instead of trying to remember everything, instead remember you can easily look stuff up in the man pages.
 
