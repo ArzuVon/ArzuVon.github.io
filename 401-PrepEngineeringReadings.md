@@ -28,23 +28,31 @@
 
 ## How to think like a programmer
 
-- **1. Problem solving is a meta-skill**
+1.**Problem solving is a meta-skill**
+
 - Have a framework & practice it
 - Break down large complex problems
-- **2. Understand the problem, lnow exactly what's being asked**
+
+2.**Understand the problem, lnow exactly what's being asked**
+
 - You know you understand when you can explain it
 - Write it down/doodle/tell someone else about it
-- **3. Plan before problem solve**
+
+3.**Plan before problem solve**
+
 - Plan your solution
 - Given X, what are the steps necessary to return output Y?
 - Comments
-- **4. Stuck?**
+
+4.**Stuck?**
+
 - Take a deep breathe
 - Debug, go step by step through your solution to find where you wen wrong (Debugging)
 - Reassess, take a step back, look at the problem from another perspective
 - Start new, delete the old and have fresh eyes
 - Research sub solutions to learn or waste your time
-- **5. Practice, practice, practice**
+
+5.**Practice, practice, practice**
 
 ## Solving Problems
 
