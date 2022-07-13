@@ -3,13 +3,7 @@
 
 # Code 401 - Advanced Software Development Reading Notes
 
-## Table of Contents
-
-- [401-Reading-Notes](./reading-notes.md)
-- [401-Prep-Engineering-Readings](./401-PrepEngineeringReadings.md)
-- [401-PrepGrowthMindset](./401-PrepGrowthMindset.md)
-- [401-SQLPractice](./401-SQLPractice)
-- [401-Class01](./401-Class01)
+## [401-Reading-Notes](./reading-notes.md)
 
 ### Markdown Practice Below
 
