@@ -2,19 +2,19 @@
 
 ## Act like you make $1000/hr
 
-- >Being busy is a form of mental laziness Tim Ferris
-- ***It takes discipline to not become "busy"***
-- ***Budget your time wisely***
-- ***The most successful people I know are not busy, they're focused***
-- ***Are you focused, making tangible action steps towards what truly matters?... or are you "busy?"***
-- ***When you are busy, you are on autopilot. You can't see the hours slipping away, time you'll never get back***
-- ***Busyness & bad stress are the enemy. They're a sign you're off track***
-- ***Do less w/complete focus and when you're done, BE DONE. Enjoy your day. Enjoy life***
-- ***You become what you are***
-- ***You attract what you look for***
-- >The Difference betweeen sucessful people and really successfull people is that really successfull people say no to almost everything. Warren Buffet
-- ***You probably need to say "no" more***
-- ***Innovation is saying no to 1000 things***
+- >Being busy is a form of mental laziness. -Tim Ferris
+-It takes discipline to not become "busy"  
+-Budget your time wisely  
+-The most successful people I know are not busy, they're focused  
+-Are you focused, making tangible action steps towards what truly matters?... or are you "busy?"  
+-When you are busy, you are on autopilot. You can't see the hours slipping away, time you'll never get back  
+-Busyness & bad stress are the enemy. They're a sign you're off track  
+-Do less w/complete focus and when you're done, BE DONE. Enjoy your day. Enjoy life  
+-You become what you are  
+-You attract what you look for  
+- >The Difference betweeen sucessful people and really successfull people is that really successfull people say no to almost everything. -Warren Buffet
+-You probably need to say "no" more  
+-Innovation is saying no to 1000 things  
 
 ## The 5 Whys
 
@@ -62,4 +62,4 @@
 - Write the manual steps as comments or pseudo-code
 - Replace the comments or pseudo-code with real code
 - Optimize the real code
-- ***As much as 70% of our time should be spent in steps 1-3***
+- ***As much as 70% of our time should be spent in steps 1-3***  
