@@ -15,7 +15,7 @@
 
 ### Table of Contents
 
-- [401-Prep-Engineering-Readings](https://ArzuVon.github.io/reading-notes/401-PrepEngineeringReadings)
+- [401-Prep-Engineering-Readings](./401-PrepEngineeringReadings.md)
 - [401-PrepGrowthMindset](https://ArzuVon.github.io/reading-notes/401-PrepGrowthMindset)
 - [401-SQLPractice](https://ArzuVon.github.io/reading-notes/401-SQLPractice)
 - [401-Class01](https://ArzuVon.github.io/reading-notes/401-Class01)
@@ -25,11 +25,13 @@
 **This text is _extremely_ important**
 > Text that is a quote
 Some basic Git commands are:
-```
+
+```sh
 git status
 git add
 git commit
 ```
+
 This site was built using [GitHub Pages](https://pages.github.com/).
 
 
