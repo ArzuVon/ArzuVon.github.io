@@ -21,6 +21,3 @@
 - [401-PrepGrowthMindset](./401-PrepGrowthMindset.md)
 - [401-SQLPractice](./401-SQLPractice)
 - [401-Class01](./401-Class01)
-
-
-This site was built using [GitHub Pages](https://pages.github.com/).
