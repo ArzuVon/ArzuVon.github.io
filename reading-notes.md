@@ -21,7 +21,7 @@
 - [401-Reading-Notes](./reading-notes)
 - [401-Prep-Engineering-Readings](./401-PrepEngineeringReadings)
 - [401-PrepGrowthMindset](./401-PrepGrowthMindset)
-- [401-PrepPracticeInTheTerminal](./401-PrepCodeChallenge01JSFundamentals)
+- [401-PrepPracticeInTheTerminal](./401-PrepPracticeInTheTerminal)
 - [401-PrepCodeChallenge01JSFundamentals](./401-PrepCodeChallenge01JSFundamentals)
 - [401-PrepCodeChallenge02ES6Classes](./401-PrepCodeChallenge02ES6Classes)
 - [401-PrepCodeChallenge03Callbacks](./401-PrepCodeChallenge03Callbacks)
