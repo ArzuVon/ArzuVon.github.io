@@ -3,6 +3,8 @@
 
 ## Reading-notes
 
+>The Difference betweeen sucessful people and really successfull people is that really successfull people say no to almost everything. -Warren Buffet
+
 ### Things I want to know more about
 
 - How to build a Full Stack app with custom REST API's and AWS
