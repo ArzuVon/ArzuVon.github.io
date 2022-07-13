@@ -2,7 +2,7 @@
 
 ## Act like you make $1000/hr
 
-- ***Being busy is a form of mental laziness*** Tim Ferris
+- >Being busy is a form of mental laziness Tim Ferris
 - ***It takes discipline to not become "busy"***
 - ***Budget your time wisely***
 - ***The most successful people I know are not busy, they're focused***
@@ -12,7 +12,7 @@
 - ***Do less w/complete focus and when you're done, BE DONE. Enjoy your day. Enjoy life***
 - ***You become what you are***
 - ***You attract what you look for***
-- ***The Difference betweeen sucessful people and really successfull people is that really successfull people say no to almost everything*** Warren Buffet
+- >The Difference betweeen sucessful people and really successfull people is that really successfull people say no to almost everything. Warren Buffet
 - ***You probably need to say "no" more***
 - ***Innovation is saying no to 1000 things***
 
