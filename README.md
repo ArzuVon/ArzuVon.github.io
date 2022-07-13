@@ -1,7 +1,6 @@
 
 # Von Arzu
 
-
 # Code 401 - Advanced Software Development Reading Notes
 
 ## Table of Contents
@@ -11,6 +10,8 @@
 - [401-PrepGrowthMindset](./401-PrepGrowthMindset.md)
 - [401-SQLPractice](./401-SQLPractice)
 - [401-Class01](./401-Class01)
+
+### Markdown Practice Below
 
 **This is bold text**
 ***All this text is important***
