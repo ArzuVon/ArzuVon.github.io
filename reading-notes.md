@@ -18,8 +18,8 @@
 
 ## Table of Contents
 
-- [401-Reading-Notes](./reading-notes.md)
-- [401-Prep-Engineering-Readings](./401-PrepEngineeringReadings.md)
+- [401-Reading-Notes](./reading-notes)
+- [401-Prep-Engineering-Readings](./401-PrepEngineeringReadings)
 - [401-PrepGrowthMindset](./401-PrepGrowthMindset.md)
 - [401-PrepPracticeInTheTerminal](./401-PrepCodeChallenge01JSFundamentals.md)
 - [401-PrepCodeChallenge01JSFundamentals](./401-PrepCodeChallenge01JSFundamentals.md)
