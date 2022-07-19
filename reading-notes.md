@@ -11,6 +11,7 @@
 - Node testing and debuging
 - Algorithms best practice
 - How to chose which method/function to solve a problem
+- How and when to use callback functions/middleware in express
 - How to clean code
 - How to think fast
 
