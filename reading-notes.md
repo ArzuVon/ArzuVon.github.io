@@ -40,3 +40,6 @@
 - [401-Class08](./401-Class08)
 - [Lab 09 Brainstorm w/team]()
 - [401-Class11](./401-Class11)
+- [401-Class12](./401-Class12)
+- [401-Class13](./401-Class13)
+- [401-Class14](./401-Class14)
