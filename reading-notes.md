@@ -48,3 +48,4 @@
 - [AWS](./401-Class16)
 - [AWS: S3 and Lambda](./401-Class17)
 - [AWS: API, Dynamo and Lambda](./401-Class18)
+- [AWS: Events](./401-Class19.md)
