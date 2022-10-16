@@ -49,3 +49,7 @@
 - [AWS: S3 and Lambda](./401-Class17)
 - [AWS: API, Dynamo and Lambda](./401-Class18)
 - [AWS: Events](./401-Class19.md)
+- [Component Based UI](./401-Class26.md)
+- [React Hooks](./401-Class27.md)
+- [useEfffect Hook](./401-Class28.md)
+- [useReducer Hook](./401-Class29.md)
