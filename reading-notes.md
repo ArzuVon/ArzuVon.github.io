@@ -53,3 +53,4 @@
 - [React Hooks](./401-Class27.md)
 - [useEfffect Hook](./401-Class28.md)
 - [useReducer Hook](./401-Class29.md)
+- [Hash Tables, (Key:Value)](./401-Class30.md)
