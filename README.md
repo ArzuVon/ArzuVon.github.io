@@ -3,7 +3,7 @@
 
 # Code 401 - Advanced Software Development Reading Notes
 
-## [401-Reading-Notes]([Notes](https://arzuvon.github.io./reading-notes)
+## [401-Reading-Notes](https://arzuvon.github.io./reading-notes)
 
 ### [Music used to code](https://www.youtube.com/watch?v=M5QY2_8704o)
 
