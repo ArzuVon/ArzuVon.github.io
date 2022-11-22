@@ -6,6 +6,20 @@
 
 [Cheat Sheet](https://ryanstutorials.net/linuxtutorial/cheatsheet.php)
 
+## The Command Line
+
+- What is it ?
+
+  - Text based interface to the system
+
+- How does it work ?
+
+  - You can navigate to files through the terminal.
+
+- How do I get to one ?
+
+  - If you have a Mac like I do, it's already installed :)
+
 ## Basic Navigation
 
 - **pwd** which stands for Print Working Directory
@@ -31,6 +45,13 @@
 ## Manual Pages
 
 >The manual pages are a set of pages that explain every command available on your system including what they do, the specifics of how you run them and what command line arguments they accept. Some of them are a little hard to get your head around but they are fairly consistent in their structure so once you get the hang of it it's not too bad
+
+- The terminal is a powerful tool. Looking up manual pages can be achieved by inputting
+
+```HTML
+-> ~ man ls
+-> ~ man -k
+```
 
 - man < command > Look up the manual page for a particular command.
 - man -k < search term > Do a keyword search for all manual pages containing the given search term.
