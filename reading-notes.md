@@ -20,7 +20,7 @@
 ## Table of Contents
 
 - [Reading-Notes](./reading-notes)
-- [Basics for SDE](./401-Class0001.md)
+- [Basics for SDE](./401-Class001.md)
 - [Basics for SDE part 2](./401-Class00.md)
 - [Prep-Engineering-Readings](./401-PrepEngineeringReadings)
 - [PrepGrowthMindset](./401-PrepGrowthMindset)
