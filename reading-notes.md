@@ -65,3 +65,6 @@
 - [Redux - Combined Reducers](./401-Class37.md)
 - [Redux - Asynchronous Actions](./401-Class38.md)
 - [Redux - Additional Topics](./401-Class39.md)
+- [React Native](./401-Class41.md)
+- [Ethics In Tech](./401-Class42.md)
+- [Open Source Software Contribution](./401-Class43.md)
