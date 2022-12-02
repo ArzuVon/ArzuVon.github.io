@@ -1,7 +1,7 @@
 
 # Von Arzu
 
-# Code 401 - Advanced Software Development Reading Notes
+# Advanced Software Development Reading Notes
 
 ## [401-Reading-Notes](https://arzuvon.github.io./reading-notes)
 
