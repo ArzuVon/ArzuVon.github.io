@@ -14,8 +14,6 @@
 - Python
 - Scaling legacy code
 
-# Advanced Software Development Reading Notes
-
 ## Table of Contents
 
 - [Reading-Notes](./reading-notes)
