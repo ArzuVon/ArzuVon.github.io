@@ -1,19 +1,19 @@
 # Von Arzu
 
 > Hi, my name is Von. Welcome to free research info I use on my code journey. I am a military Veteran with a Masters in Computer Information Science, a mini-MBA, entreprenuership credentials from Rutgers University, WeWork, NYU, and I have coding bootcamp experience.
-> I started my coding journey in 2018. I built several projects to explore coding like a Smart Mirror using Raspberry PI and then became a Software Engineer for a FinTech company. Currently, I work as a Software Developer and continuously growing my skills. Feel free to use any of the notes below. It is for everyone!
+> I started my coding journey in 2018. I built several projects to explore coding like a Smart Mirror using Raspberry PI and then became a Software Engineer for a FinTech company. Currently, I work as a Software Developer continuously growing my skills. Feel free to use any of the notes below. It is for everyone!
 
-## Reading-notes
-
-### Things I want to know more about
+## Things I want to know more about
 
 - AWS
 - Python
 - Scaling legacy code
 
-## Table of Contents
+## [Reading-Notes](./reading-notes)
 
-- [Reading-Notes](./reading-notes)
+### Table of Contents
+
+<!-- - [Reading-Notes](./reading-notes) -->
 - [Basics for SDE](./401-Class001.md)
 - [Basics for SDE part 2](./401-Class00.md)
 - [Prep-Engineering-Readings](./401-PrepEngineeringReadings)
