@@ -5,7 +5,7 @@
 
 ## Things I want to know more about
 
-- AWS
+- Cloud
 - Python
 - Scaling legacy code
 
