@@ -9,6 +9,8 @@
 - Python
 - Scaling legacy code
 
+## Reading-Notes
+
 ### Table of Contents
 
 <!-- - [Reading-Notes](./reading-notes) -->
@@ -60,5 +62,3 @@
 - [React Native](./401-Class41.md)
 - [Ethics In Tech](./401-Class42.md)
 - [Open Source Software Contribution](./401-Class43.md)
-
-<!-- ## [Reading-Notes](./reading-notes) -->
