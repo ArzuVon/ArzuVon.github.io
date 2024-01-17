@@ -1,12 +1,9 @@
-
 # Von Arzu
 
 > Hi, my name is Von. Welcome to free research info I use on my code journey. I am a military Veteran with a Masters in Computer Information Science, a mini-MBA, entreprenuership credentials from Rutgers University, WeWork, NYU, and I have coding bootcamp experience.
 > I started my coding journey in 2018. I built several projects to explore coding like a Smart Mirror using Raspberry PI and then became a Software Engineer for a FinTech company. Currently, I work as a Software Developer and continuously growing my skills. Feel free to use any of the notes below. It is for everyone!
 
 ## Reading-notes
-
->The Joy is in the Climb
 
 ### Things I want to know more about
 
