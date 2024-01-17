@@ -13,7 +13,6 @@
 
 ### Table of Contents
 
-<!-- - [Reading-Notes](./reading-notes) -->
 - [Basics for SDE](./401-Class001.md)
 - [Basics for SDE part 2](./401-Class00.md)
 - [Prep-Engineering-Readings](./401-PrepEngineeringReadings)
@@ -62,3 +61,5 @@
 - [React Native](./401-Class41.md)
 - [Ethics In Tech](./401-Class42.md)
 - [Open Source Software Contribution](./401-Class43.md)
+
+<!-- - [Reading-Notes](./reading-notes) -->
