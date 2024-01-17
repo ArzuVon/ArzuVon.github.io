@@ -1,15 +1,17 @@
 
 # Von Arzu
 
+> Hi, my name is Von. Welcome to free research info I use on my code journey. I am a military Veteran with a Masters in Computer Information Science, a mini-MBA, entreprenuership credentials from NYU, and I have coding bootcamp experience. I started my coding journey in 2018. I build a Smart Mirror using Raspberry PI during my undergraduate degree and worked for a FinTech company as a Software Engineer. Currently, I work as a Software Developer and continuously growing my skills. Feel free to use any of the notes below. It is for everyone!
+
 ## Reading-notes
 
 >The Difference betweeen sucessful people and really successfull people is that really successfull people say no to almost everything. -Warren Buffet
 
 ### Things I want to know more about
 
-- How to build an app with AI, custom API's and AWS from legacy code
-- How to feed AI huge amounts of data
-- Algorithms best practice
+- AWS
+- Python
+- Scaling legacy code
 
 # Advanced Software Development Reading Notes
 
