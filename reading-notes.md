@@ -7,9 +7,9 @@
 
 ## Things I want to know more about
 
+- DevOps
 - Cloud
-- Python
-- Scaling legacy code
+- Automation
 
 ## Reading-Notes
 
