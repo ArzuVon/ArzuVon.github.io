@@ -2,8 +2,7 @@
 
 ## ![Von Arzu](./Images/IMG_3890.jpeg)
 
-> Hi, my name is Von. Welcome to free researched info I use on my code journey. I am a military Veteran with a Masters in Computer Information Science, a mini-MBA, entreprenuership credentials from Rutgers University, WeWork, NYU, and I have coding bootcamp experience.
-> I started my coding journey in 2017. I built several projects to explore coding, like, a Smart Mirror using Raspberry PI and then became a Software Engineer for a FinTech company. Currently, I work as a Software Developer continuously growing my skills. Feel free to use any of the notes below. It is for everyone!
+> Hi, my name is Von. Welcome to free researched info I use on my code journey. I am a military Veteran with a Master's in Computer Information Science, a mini-MBA, and entrepreneurship credentials from Rutgers University, WeWork, N.Y.U., and I have coding boot camp experience. I started my coding journey in 2017. I built several projects to explore coding, like, a Smart Mirror using Raspberry PI and then became a Software Engineer for a FinTech company. I taught high school students how to code as a Girls Who Code instructor, and founded an Augmented Reality (AR) startup. In 2021, I worked remotely as a Software Developer and now, I work as a DevOps Engineer continuously growing my skills. Feel free to use any of the notes below. It is for everyone!
 
 ## Things I want to know more about
 
